@@ -1,0 +1,14 @@
+export const VIEW_NAV = 'VIEW_NAV';
+export const VIEW_FOOT = 'VIEW_FOOT';
+export const VIEW_LOADING = 'VIEW_LOADING';
+export const  UPDATE_HOME= 'UPDATE_HOME';
+export const  CHECK_USER= 'CHECK_USER';
+export const  CLEAR_USER= 'CLEAR_USER';
+export const  UPDATE_DETAIL= 'UPDATE_DETAIL';
+export const  ADD_SHOPCAR= 'ADD_SHOPCAR';
+export const  CHANGE_ITEM= 'CHANGE_ITEM';
+export const  REMOVE_ALL= 'REMOVE_ALL';
+export const  TOTAL= 'TOTAL';
+export const  CLEAR_CAR= 'CLEAR_CAR';
+export const  CLEAR_PRICE= 'CLEAR_PRICE';
+export const  CLEAR_DETAIL= 'CLEAR_DETAIL';
